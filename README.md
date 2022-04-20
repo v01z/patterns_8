@@ -1,1 +1,1 @@
-# patterns_8
+# patterns_homework_8
